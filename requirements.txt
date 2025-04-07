@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchainhub
+langchain-community
+pdfminer.six
+unstructured
