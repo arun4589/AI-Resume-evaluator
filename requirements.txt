@@ -4,3 +4,4 @@ langchainhub
 langchain-community
 pdfminer.six
 unstructured
+langchain-ollama
